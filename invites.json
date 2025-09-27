@@ -3,9 +3,11 @@
     "status": "accepted",
     "invited_by": "admin",
     "date": "27.09.2025",
-    "invites_left": 10,
+    "invites_left": 9,
     "level": 1,
-    "referrals": []
+    "referrals": [
+      "7999701104"
+    ]
   },
   "7226951667": {
     "status": "pending",
@@ -37,6 +39,14 @@
     "date": "27.09.2025",
     "invites_left": 0,
     "level": 0,
+    "referrals": []
+  },
+  "7999701104": {
+    "status": "pending",
+    "invited_by": "8207287612",
+    "date": "27.09.2025",
+    "invites_left": 0,
+    "level": 2,
     "referrals": []
   }
 }
