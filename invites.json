@@ -22,5 +22,13 @@
     "invites_left": 2,
     "level": 1,
     "referrals": []
+  },
+  "8429241013": {
+    "status": "pending",
+    "invited_by": "admin",
+    "date": "27.09.2025",
+    "invites_left": 4,
+    "level": 1,
+    "referrals": []
   }
 }
