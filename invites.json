@@ -22,5 +22,13 @@
     "invites_left": 0,
     "level": 0,
     "referrals": []
+  },
+  "5567345162": {
+    "status": "pending",
+    "invited_by": "self",
+    "date": "28.09.2025",
+    "invites_left": 0,
+    "level": 0,
+    "referrals": []
   }
 }
