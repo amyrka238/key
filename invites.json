@@ -54,5 +54,13 @@
     "invites_left": 0,
     "level": 0,
     "referrals": []
+  },
+  "7999701104": {
+    "status": "pending",
+    "invited_by": "self",
+    "date": "01.10.2025",
+    "invites_left": 0,
+    "level": 0,
+    "referrals": []
   }
 }
